@@ -5,3 +5,5 @@ le_nabur
 l_amrock
 le_crownest
 le_grand8
+le_chiwawa
+la_bassecour
